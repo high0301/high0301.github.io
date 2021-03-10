@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 찹쌀찹쌀</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on 찹쌀찹쌀</description>
+    <title>test on 찹쌀찹쌀</title>
+    <link>http://example.org/tags/test/</link>
+    <description>Recent content in test on 찹쌀찹쌀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>첫번째 글 테스트</title>
       <link>http://example.org/post/page1/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://example.org/post/page1/</guid>
       <description>글은 이쪽에 적는거 맞나? 맞군 왜이렇게 아련하게 끝에 &amp;hellip; 이 붙는거임ㅋㅋㅋㅋㅠㅠㅠㅠㅠ</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>http://example.org/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/archives/</guid>
-      <description>아카이브</description>
     </item>
     
   </channel>
