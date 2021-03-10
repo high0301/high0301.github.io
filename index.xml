@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>찹쌀찹쌀</title>
-    <link>http://example.org/</link>
+    <link>https://high0301.github.io/</link>
     <description>Recent content on 찹쌀찹쌀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://high0301.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>첫번째 글 테스트</title>
-      <link>http://example.org/post/page1/</link>
+      <link>https://high0301.github.io/post/page1/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/post/page1/</guid>
+      <guid>https://high0301.github.io/post/page1/</guid>
       <description>글은 이쪽에 적는거 맞나? 맞군 왜이렇게 아련하게 끝에 &amp;hellip; 이 붙는거임ㅋㅋㅋㅋㅠㅠㅠㅠㅠ</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>http://example.org/archives/</link>
+      <link>https://high0301.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/archives/</guid>
+      <guid>https://high0301.github.io/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>http://example.org/archives/</link>
+      <link>https://high0301.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/archives/</guid>
+      <guid>https://high0301.github.io/archives/</guid>
       <description>아카이브</description>
     </item>
     
