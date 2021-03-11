@@ -13,7 +13,9 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://high0301.github.io/post/page1/</guid>
-      <description>글은 이쪽에 적는거 맞나? 맞군 왜이렇게 아련하게 끝에 &amp;hellip; 이 붙는거임ㅋㅋㅋㅋㅠㅠㅠㅠㅠ</description>
+      <description>마크다운 정리
+This is a H1 This is a H2 This is a H3 This is a H4 This is a H5 This is a H6  인용
+  리스트1 리스트2 리스트3   리스트 리스트  리스트     &amp;lt;script crossorigin src=&amp;quot;https://unpkg.com/react@17/umd/react.development.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script crossorigin src=&amp;quot;https://unpkg.com/react-dom@17/umd/react-dom.development.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;  </description>
     </item>
     
   </channel>
